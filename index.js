@@ -5,7 +5,7 @@ document.write(myName("Rachel", "Asse"));
 document.write('<br>')
 document.write("<br>");
 
-const myHeight = ( height) => {
+const myHeight = (height) => {
   return `I am  ${height}`;
 };
 document.write(myHeight("5'8")); 
